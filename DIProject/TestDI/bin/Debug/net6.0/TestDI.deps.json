@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestDI/1.0.0": {
+        "dependencies": {
+          "DI": "1.0.0"
+        },
+        "runtime": {
+          "TestDI.dll": {}
+        }
+      },
+      "DI/1.0.0": {
+        "runtime": {
+          "DI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
